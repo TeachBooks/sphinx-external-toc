@@ -1,3 +1,6 @@
+> [!CAUTION]
+> This fork is only kept here as a redundancy. If possible, use the newest published version at https://pypi.org/project/sphinx_external_toc/.
+
 # sphinx-external-toc
 
 [![Github-CI][github-ci]][github-link]
